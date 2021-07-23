@@ -1,7 +1,7 @@
 {
   "instanceAlias" : "dfx5-dialer-demo-2",
   "enableInboundCalls" : "true",
-  "enableOutboundCalls" : "false",
+  "enableOutboundCalls" : "true",
   "identityManagementType" : "CONNECT_MANAGED",
   "approvedOrigins" : "https://www.amazon.com,https://www.aws.com",
   "approvedLambdas" : "",
